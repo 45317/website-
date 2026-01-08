@@ -1,0 +1,8 @@
+{
+  "name": "Nexus Systems - Next-Gen Agency",
+  "description": "A premium development agency website featuring AI-driven lead analysis, interactive project showcases, and a sleek modern interface.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
